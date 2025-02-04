@@ -1,6 +1,7 @@
 # A Java/Maven/JUnit HelloWorld example
 
 change by me from github
+Now change from local system.
 
 A „Hello World!” sample written in Java using Maven for the build, that showcases a few very simple tests.
 
